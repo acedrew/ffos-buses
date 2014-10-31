@@ -1,0 +1,14 @@
+{
+  "name": "CHA Buses",
+  "description": "Real-time view of CARTA Buses",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/images/bus-200px.png",
+    "128": "/images/bus-128px.png"
+  },
+  "developer": {
+    "name": "Andrew Rodgers",
+    "url": "http://acedrew.com"
+  },
+  "default_locale": "en"
+}
